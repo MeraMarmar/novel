@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">روايه العنيد</string>
+    <string-array name="index">
+        <item>الحلقه الاولى</item>
+        <item>الحلقه التانيه</item>
+        <item>الحلقه التالته</item>
+        <item>الحلقه الرابعه</item>
+        <item>الحلقه الخامسه</item>
+        <item>الحلقه السادسه</item>
+        <item>الحلقه السابعه</item>
+        <item>الحلقه الثامنه</item>
+        <item>الحلقه التاسعه</item>
+        <item>الحلقه العاشره</item>
+    </string-array>
+</resources>
